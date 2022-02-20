@@ -1,2 +1,2 @@
 # HMCFinance.github.io
-Main Website Source Code (forked from FraxFinance
+Main Website Source Code for HMCFinance (forked from FraxFinance)
